@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 set -e
+cd /data/home
 
 xircuits install converse
 xircuits install https://github.com/XpressAI/xai-xpressai
